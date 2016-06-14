@@ -17,7 +17,7 @@ public class Hola_Mundo1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola Mundo");
-        System.out.println("Hoy es dia 20 de marzo de 2016");
+        System.out.println("Hoy es dia 20 de mayo de 2016 ");
     }
     
 }
